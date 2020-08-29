@@ -1,0 +1,3 @@
+[submodule "packages/graphql-mesh"]
+	path = packages/graphql-mesh
+	url = https://github.com/Urigo/graphql-mesh/
